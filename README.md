@@ -1,6 +1,19 @@
 # The-Hunt-2.0
-For the Hunt 2.0 in my discord server.
-If you are reading this, you are probably dan oj or og. If not, then kindly move on because this is only for the members in my discord server
+DO READ THE CONTROLS
+If you are reading this, you are probably memebers of my discord server. If not, then kindly move on because this is only for the members in my discord server
 
+The Hunt 2.0 is HERE!!!
+The one who finds'em all first wins 5 month of VIP sub and the title "The Hunt Champ".
 
-Note for Dan: this is just a test build for testing out the game if it's working on all resolutions or not or if it's gonna open.
+Good luck
+
+# Controls
+
+Esc = pause/phone
+R = Resume (In Pause Menu)
+Q = Quit (In Pause Menu)
+E = Interact
+
+WASD to move
+
+NOTE: The pause menu is a bit glitchy sometimes so the buttons might not work, pls use the buttons corresponding to that.
