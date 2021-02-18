@@ -16,4 +16,4 @@ E = Interact
 
 WASD to move
 
-NOTE: The pause menu is a bit glitchy sometimes so the buttons might not work, pls use the buttons corresponding to that.
+NOTE: The pause menu is a bit glitchy sometimes so the clickable might not work, pls use the buttons corresponding to that.
